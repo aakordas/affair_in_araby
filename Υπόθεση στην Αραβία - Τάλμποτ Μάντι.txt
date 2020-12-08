@@ -789,4 +789,5 @@
 ;; mode: text
 ;; fill-column: 75
 ;; eval: (auto-fill-mode)
+;; ispell-local-dictionary: "greek"
 ;; End:
